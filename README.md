@@ -8,7 +8,7 @@
   ### <p align="center">🔹Backend Languages:</p>ㅤㅤㅤㅤㅤㅤㅤ
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java" />
+    <img align="center" src="https://skillicons.dev/icons?i=cs,java" />
   </a>
 </p>
  
