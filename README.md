@@ -1,9 +1,9 @@
-
+<div>
 <p  align="center">
 Hi, im Samuel      
 <br>
 
-# 🔥 Skills 🔥
+# <p align="center">🔥 Skills 🔥</p>
 
 ### 🔹Backend Languages:ㅤㅤㅤㅤㅤㅤㅤ
 <p align="center">
@@ -18,4 +18,4 @@ Hi, im Samuel
     <img src="https://skillicons.dev/icons?i=angular" />
   </a>
 </p>
-
+</div>
