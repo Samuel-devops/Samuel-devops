@@ -17,7 +17,7 @@
 ### <p align="center">🔹Frontend:</p>ㅤㅤㅤㅤㅤㅤㅤ
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=ts, html, css" />
+    <img align="center" src="https://skillicons.dev/icons?i=ts,html,css" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 ### <p align="center">🔹Other</p>ㅤ
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=git,visualstudio, vscode, azure, github" />
+    <img align="center" src="https://skillicons.dev/icons?i=git,visualstudio,vscode,postman,azure,github" />
   </a>
 </p>
 </div>
