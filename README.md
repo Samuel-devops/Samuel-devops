@@ -1,8 +1,8 @@
 # Samuel
 
-**Software Engineer** · C# / .NET · Java · TypeScript / Angular · Azure
+**Senior Software Developer** · C# / .NET · Java · TypeScript / Angular · Azure
 
-I build maintainable, well-tested software and care about clean architecture, readable code and reliable delivery pipelines. Currently focused on backend engineering and cloud-based systems.
+I build maintainable, well-tested software and care about clean architecture, readable code and reliable delivery pipelines. Currently focused on backend development and cloud-based systems.
 
 ---
 
@@ -15,7 +15,7 @@ I build maintainable, well-tested software and care about clean architecture, re
 | **Cloud & DevOps** | ![Azure](https://skillicons.dev/icons?i=azure) ![GitHub](https://skillicons.dev/icons?i=github) ![Git](https://skillicons.dev/icons?i=git) |
 | **Tooling** | ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Eclipse](https://skillicons.dev/icons?i=eclipse) ![Postman](https://skillicons.dev/icons?i=postman) |
 
-## Engineering Principles
+## Principles
 
 - **Clean code first**: small units, clear naming, explicit contracts.
 - **Automate the path to production**: version control, CI/CD, reproducible builds.
